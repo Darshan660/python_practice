@@ -1,4 +1,4 @@
-# python_practice
+# Description
 Hello,
 This repository contains a collection of Python practice code that I've written to improve my skills and understanding of the language. Each session represents a different day I had practice.
 ## Who is this for?
