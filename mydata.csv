@@ -1,0 +1,11 @@
+,ID,Physics,Chemistry,Maths,Branch,Total,Chemistry_Result,Physics_Result
+0,1,20,56,76,IT,152,pass,third class
+1,2,30,78,43,CS,151,pass,third class
+2,3,40,54,32,EX,126,pass,third class
+3,4,20,67,34,IT,121,pass,third class
+4,5,50,78,55,BI,183,pass,third class
+5,6,59,87,86,IT,232,pass,third class
+6,7,56,22,56,CS,134,fail,third class
+7,8,20,54,45,EX,119,pass,third class
+8,9,23,65,23,CS,111,pass,third class
+9,10,45,66,44,IT,155,pass,third class

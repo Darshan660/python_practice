@@ -1,0 +1,10 @@
+,id,first_name,last_name,ethnicity,gender,entry_academic_period,act_composite,act_math,act_english,act_reading,sat_combined,sat_math,sat_verbal,sat_reading,hs_city,hs_state,hs_zip,email,entry_age,ged,english_2nd_language,first_generation,Percentage
+0,111111,John,Doe,Hispanic,M,Fall 2008,20,22,25,8,8.0,10.0,12.0,13.0,Albuquerque,New Mexico,87112,jdoe@example.com,17.9,False,False,True,49.166666666666664
+1,111112,Jane,Smith,Hispanic,F,Fall 2006,2,22,3,8,8.0,23.0,12.0,13.0,New York,New York,10009,jsmith@example.com,18.1,False,False,True,37.916666666666664
+2,111113,Sarah,Thomas,Hispanic,M,Fall 2006,14,6,5,3,0.0,0.0,0.0,0.0,Pheonix,Arizona,85006,sthomas@example.com,17.6,False,False,False,11.666666666666666
+3,111114,Frank,Brown,Race/ethnicity unknown,M,Fall 2006,20,18,25,8,8.0,10.0,12.0,13.0,Pheonix,Arizona,85015,fbrown@example.com,19.0,True,False,True,47.5
+4,111115,Mike,Davis,White,F,Fall 2007,22,12,5,5,5.0,14.0,16.0,0.0,Seattle,Washington,98106,mdavis@example.com,18.2,False,True,False,32.916666666666664
+5,111116,Jennifer,Wilson,Asian,M,Fall 2006,16,11,16,5,4.0,10.0,12.0,13.0,Denver,Colorado,80012,jwilson@example.com,18.5,True,False,True,36.25
+6,111117,Jessica,Garcia,White,F,Fall 2007,25,10,5,10,14.0,18.0,19.0,0.0,Austin,Texas,78703,jgarcia@example.com,18.8,False,False,False,42.083333333333336
+7,111118,Fred,Clark,Hispanic,F,Fall 2010,21,4,10,7,26.0,30.0,22.0,12.0,Denver,Colorado,80033,fclark@example.com,19.2,False,True,True,55.00000000000001
+8,111119,Bob,Lopez,White,F,Fall 2007,15,5,5,5,25.0,29.0,30.0,0.0,Denver,Colorado,80122,blopez@example.com,18.5,False,False,True,47.5
