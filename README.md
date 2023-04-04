@@ -1,0 +1,5 @@
+# python_practice
+Hello,
+This repository contains a collection of Python practice code that I've written to improve my skills and understanding of the language. Each session represents a different day I had practice.
+## Who is this for?
+This repository is primarily intended for anyone who wants to improve their Python coding skills, especially beginners who are just starting out with the language. If you're new to Python, you can use this code as a resource to learn how to write efficient and effective Python code and explore the different areas of the language. I've tried to keep the code as simple and easy-to-understand as possible, with detailed comments and explanations of what each piece of code does. If you're stuck on a particular concept or piece of code, feel free to reach out to me for help or clarification. Ultimately, my goal with this repository is to provide a resource that helps beginners become more confident and proficient in their Python coding skills. So whether you're a total beginner or just looking to brush up on your Python knowledge, I hope you find this repository helpful!
